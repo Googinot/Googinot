@@ -1,5 +1,23 @@
 [![Header](https://media.proglib.io/wp-uploads/2017/09/qa-2-min.png)](https://github.com/Googinot)
 ## I'm a Junior QA Engineer / Tester. 
+**About me**
+
+- 💼 Since February 2022 I am looking for a job in my specialty;
+
+- 📚 Junior QA Engineer (student of QA course by [nti-center.ru](https://nti-center.ru/));
+
+- 📈 I am set to take The ISTQB® Certified Tester Foundation Level (CTFL);
+
+- 👀 I have looked at the courses [Software Testing Introduction (RUS) by Svyatoslav Kulikov](https://elearn.epam.com/courses/course-v1:EPAM+STI+RU/course/);
+
+- 💬 Ask me about anything [here](https://t.me/ArkadiySafronov);
+
+- 📮 [E-mail][email] | [LinkedIn][in] | [HeadHunter][HH]
+
+[email]: <mailto:arkan@bk.ru>
+[in]: <https://www.linkedin.com/in/googinot/>
+[HH]: <https://hh.ru/resume/cd2ee3bfff09d4bb870039ed1f737369634449>
+
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=4B8BBE)
@@ -15,10 +33,6 @@
 ![Header](https://img.shields.io/badge/Android_Studio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Visual_Studio_Code-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=0078d7)
 
-### Follow Me
-[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/googinot)
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/ArkadiySafronov)
-[![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/googinot)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/arkadiy-safronov-1050a121a/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=googinot&show_icons=true&theme=radical)
+| <a href="https://github.com/googinot/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=googinot&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Pavel's github stats" /></a> | <a href="https://github.com/googinot/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=googinot&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
