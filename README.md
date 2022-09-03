@@ -12,7 +12,7 @@
 
 - 💬 Ask me about anything [here](https://t.me/ArkadiySafronov);
 
-- 📮 [E-mail][email] | [LinkedIn][in] | [HeadHunter][HH]
+- ✉️ [E-mail][email] | [LinkedIn][in] | [HeadHunter][HH]
 
 [email]: <mailto:arkan@bk.ru>
 [in]: <https://www.linkedin.com/in/googinot/>
@@ -34,5 +34,5 @@
 ![Header](https://img.shields.io/badge/Visual_Studio_Code-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=0078d7)
 
 
-| <a href="https://github.com/googinot/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=googinot&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Pavel's github stats" /></a> | <a href="https://github.com/googinot/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=googinot&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=googinot&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Pavel's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=googinot&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
