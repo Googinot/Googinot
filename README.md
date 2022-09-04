@@ -1,18 +1,20 @@
 [![Header](https://media.proglib.io/wp-uploads/2017/09/qa-2-min.png)](https://github.com/Googinot)
-## I'm a Junior QA Engineer / Tester. 
-**About me**
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Arkadiy!
+
+### About me
+<img align="right" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="350px" height="250px"/>
 
 - 💼 Since February 2022 I am looking for a job in my specialty;
 
-- 📚 Junior QA Engineer (student of QA course by [nti-center.ru](https://nti-center.ru/));
+- 📚 Intern/Junior QA Engineer (student of QA course by [nti-center.ru](https://nti-center.ru/));
 
 - 📈 I am set to take The ISTQB® Certified Tester Foundation Level (CTFL);
 
-- 👀 I have looked at the courses [Software Testing Introduction (RUS) by Svyatoslav Kulikov](https://elearn.epam.com/courses/course-v1:EPAM+STI+RU/course/);
+- 👨‍💻 I have looked at the courses [Software Testing by Svyatoslav Kulikov](https://elearn.epam.com/courses/course-v1:EPAM+STI+RU/course/);
 
 - 💬 Ask me about anything [here](https://t.me/ArkadiySafronov);
 
-- ✉️ [E-mail][email] | [LinkedIn][in] | [HeadHunter][HH]
+- 📫 [E-mail][email] | [LinkedIn][in] | [HeadHunter][HH]
 
 [email]: <mailto:arkan@bk.ru>
 [in]: <https://www.linkedin.com/in/googinot/>
@@ -33,6 +35,8 @@
 ![Header](https://img.shields.io/badge/Android_Studio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Visual_Studio_Code-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=0078d7)
 
-
+### GitHub Stats
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=googinot&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Pavel's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=googinot&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+![Header](https://komarev.com/ghpvc/?username=googinot&style=for-the-badge)
