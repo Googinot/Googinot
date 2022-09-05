@@ -16,6 +16,9 @@
 
 - 📫 [E-mail][email] | [LinkedIn][in] | [HeadHunter][HH]
 
+- 👇 Hit the button to connect with me.
+<a href="https://calendly.com/googinot/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
 [email]: <mailto:arkan@bk.ru>
 [in]: <https://www.linkedin.com/in/googinot/>
 [HH]: <https://hh.ru/resume/cd2ee3bfff09d4bb870039ed1f737369634449>
@@ -42,35 +45,6 @@
 
 <details>
     <summary>⚒️ This Week's Coding Stats</summary>
+
     <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 37 Contributions in the Year 2022
- > 
-> 📦 3.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I Mostly Code in HTML** 
-
-```text
-HTML                     1 repo              █████████████████████████   100.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Googinot/Googinot/main/charts/bar_graph.png) 
-
-
- Last Updated on 05/09/2022 22:18:41 UTC
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
