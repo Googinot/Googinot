@@ -38,23 +38,9 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=googinot&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Pavel's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=googinot&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+![Profile views](https://komarev.com/ghpvc/?username=googinot&style=for-the-badge)
+
 <details>
     <summary>⚒️ This Week's Coding Stats</summary>
     <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 37 Contributions in the Year 2022
- > 
-> 📦 3.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-
- Last Updated on 05/09/2022 22:12:51 UTC
-<!--END_SECTION:waka-->
-
-![Profile views](https://komarev.com/ghpvc/?username=googinot&style=for-the-badge)
+    <!--END_SECTION:waka-->
