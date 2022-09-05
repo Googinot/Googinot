@@ -46,7 +46,7 @@
 <details>
     <summary>⚒️ This Week's Coding Stats</summary>
 
-    <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
 > 🏆 39 Contributions in the Year 2022
