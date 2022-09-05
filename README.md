@@ -18,6 +18,22 @@
 - <details>
     <summary>⚒️ This Week's Coding Stats</summary>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 37 Contributions in the Year 2022
+ > 
+> 📦 3.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+
+ Last Updated on 05/09/2022 21:50:04 UTC
 <!--END_SECTION:waka-->
 
 [email]: <mailto:arkan@bk.ru>
