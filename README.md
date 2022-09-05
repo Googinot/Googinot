@@ -15,24 +15,6 @@
 - 💬 Ask me about anything [here](https://t.me/ArkadiySafronov);
 
 - 📫 [E-mail][email] | [LinkedIn][in] | [HeadHunter][HH]
-- <details>
-    <summary>⚒️ This Week's Coding Stats</summary>
-    <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 39 Contributions in the Year 2022
- > 
-> 📦 3.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-
- Last Updated on 05/09/2022 22:01:50 UTC
-<!--END_SECTION:waka-->
 
 [email]: <mailto:arkan@bk.ru>
 [in]: <https://www.linkedin.com/in/googinot/>
@@ -55,5 +37,10 @@
 ### GitHub Stats
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=googinot&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Pavel's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=googinot&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+<details>
+    <summary>⚒️ This Week's Coding Stats</summary>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
 
 ![Profile views](https://komarev.com/ghpvc/?username=googinot&style=for-the-badge)
