@@ -15,11 +15,17 @@
 - 💬 Ask me about anything [here](https://t.me/ArkadiySafronov);
 
 - 📫 [E-mail][email] | [LinkedIn][in] | [HeadHunter][HH]
+- <details>
+    <summary>📈 This Week's Coding Stats</summary>
+
+<!-- [![DanRowe1's github stats](https://github-readme-stats.danrowe1.vercel.app/api?username=DanRowe1&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [email]: <mailto:arkan@bk.ru>
 [in]: <https://www.linkedin.com/in/googinot/>
 [HH]: <https://hh.ru/resume/cd2ee3bfff09d4bb870039ed1f737369634449>
-
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=4B8BBE)
