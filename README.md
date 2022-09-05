@@ -16,9 +16,6 @@
 
 - 📫 [E-mail][email] | [LinkedIn][in] | [HeadHunter][HH]
 
-- 👇 Hit the button to connect with me.
-<a href="https://calendly.com/googinot/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
 [email]: <mailto:arkan@bk.ru>
 [in]: <https://www.linkedin.com/in/googinot/>
 [HH]: <https://hh.ru/resume/cd2ee3bfff09d4bb870039ed1f737369634449>
