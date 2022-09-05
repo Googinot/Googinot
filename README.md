@@ -17,24 +17,8 @@
 - 📫 [E-mail][email] | [LinkedIn][in] | [HeadHunter][HH]
 - <details>
     <summary>⚒️ This Week's Coding Stats</summary>
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 37 Contributions in the Year 2022
- > 
-> 📦 3.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-
- Last Updated on 05/09/2022 21:50:04 UTC
-<!--END_SECTION:waka-->
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
 
 [email]: <mailto:arkan@bk.ru>
 [in]: <https://www.linkedin.com/in/googinot/>
@@ -58,4 +42,4 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=googinot&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Pavel's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=googinot&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![Header](https://komarev.com/ghpvc/?username=googinot&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=googinot&style=for-the-badge)
