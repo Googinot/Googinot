@@ -18,7 +18,21 @@
 - <details>
     <summary>⚒️ This Week's Coding Stats</summary>
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 🏆 39 Contributions in the Year 2022
+ > 
+> 📦 3.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+
+ Last Updated on 05/09/2022 22:01:50 UTC
+<!--END_SECTION:waka-->
 
 [email]: <mailto:arkan@bk.ru>
 [in]: <https://www.linkedin.com/in/googinot/>
