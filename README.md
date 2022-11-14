@@ -83,13 +83,13 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 43 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Word                     2 hrs 43 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 13/11/2022 01:09:20 UTC
+ Last Updated on 14/11/2022 01:07:23 UTC
 <!--END_SECTION:waka-->
