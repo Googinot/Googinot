@@ -48,7 +48,7 @@
 
 > 🏆 48 Contributions in the Year 2022
  > 
-> 📦 3.4 kB Used in GitHub's Storage 
+> 📦 3.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,5 +95,5 @@ Word                     2 hrs 47 mins       █████████░░�
 ```
 
 
- Last Updated on 18/11/2022 01:11:52 UTC
+ Last Updated on 19/11/2022 01:08:33 UTC
 <!--END_SECTION:waka-->
