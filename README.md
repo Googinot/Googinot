@@ -48,8 +48,6 @@
 
 > 📦 3.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -88,5 +86,5 @@ Word                     9 mins              ███████████�
 ```
 
 
- Last Updated on 19/10/2024 01:37:34 UTC
+ Last Updated on 20/10/2024 01:46:06 UTC
 <!--END_SECTION:waka-->
