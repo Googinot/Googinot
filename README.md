@@ -48,6 +48,8 @@
 
 > 📦 3.6 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -79,14 +81,12 @@ Sunday                   2 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   23 mins             ████████████████░░░░░░░░░   64.09 % 
-Other                    12 mins             █████████░░░░░░░░░░░░░░░░   35.91 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  23 mins             ████████████████░░░░░░░░░   64.09 % 
-Word                     12 mins             █████████░░░░░░░░░░░░░░░░   35.91 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/06/2025 01:58:07 UTC
+ Last Updated on 12/06/2025 01:56:47 UTC
 <!--END_SECTION:waka-->
