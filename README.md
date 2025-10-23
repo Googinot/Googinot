@@ -81,12 +81,13 @@ Sunday                   2 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 mins              █████████████████░░░░░░░░   66.65 % 
+Bash                     1 min               ████████░░░░░░░░░░░░░░░░░   33.35 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/10/2025 01:53:39 UTC
+ Last Updated on 23/10/2025 01:49:03 UTC
 <!--END_SECTION:waka-->
